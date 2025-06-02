@@ -1,4 +1,4 @@
-# Entre likes y retweets: ¿Cómo hablamos de obesidad en Argentina?
+# Tweets sobre obesidad en Argentina: ¿De qué se habla?
 
 ### Descripción del proyecto
 La obesidad es reconocida en Argentina como un importante problema de salud pública. Existen campañas y programas, tanto a nivel nacional como provincial, que buscan reducir su prevalencia. Sin embargo, según datos de la Encuesta Nacional de Factores de Riesgo (ENFR), la tendencia sigue en aumento: en 2018, 6 de cada 10 personas presentaban exceso de peso, y 2 de esas 6 tenían obesidad.
